@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Helmi Lainata | Protofolio",
+    "description": "",
+    "home_page_url": "https://helmilainata.github.io",
+    "feed_url": "https://helmilainata.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Helmi Lainata"
+    },
+    "items": [
+        {
+            "id": "https://helmilainata.github.io/profile.html",
+            "url": "https://helmilainata.github.io/profile.html",
+            "title": "Profile",
+            "author": {
+                "name": "Helmi Lainata"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-31T15:42:27+07:00",
+            "date_modified": "2023-05-31T15:42:27+07:00"
+        }
+    ]
+}
